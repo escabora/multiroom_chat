@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Project's goal:
 - Learn how to work with socket.io;
-- Understand real-time communication between client server and client server;
+- Understand real-time communication between client server;
 - Use node as server;
 
 
