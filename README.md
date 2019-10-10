@@ -20,8 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 #### Dependences
 - [Node js](https://nodejs.org/en/)
 - [Nomdemon](https://nodemon.io/)
-- [Socket.io](https://socket.io/)
-- [Express](https://expressjs.com/pt-br/)
 
 #### Modules
 - [Socket.io](https://socket.io/)
