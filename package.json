@@ -16,7 +16,7 @@
     "ejs": "^2.5.6",
     "express": "^4.15.3",
     "express-validator": "^3.2.0",
-    "nodemon": "^1.19.3",
+    "nodemon": "^2.0.22",
     "socket.io": "^2.0.3"
   }
 }
